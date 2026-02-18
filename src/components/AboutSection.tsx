@@ -3,7 +3,7 @@ import { Award, Users, ShieldCheck } from "lucide-react";
 
 const stats = [
   { icon: Award, label: "Years Experience", value: "5+" },
-  { icon: Users, label: "Students Trained", value: "500+" },
+  { icon: Users, label: "Students Trained", value: "200+" },
   { icon: ShieldCheck, label: "Safe Record", value: "100%" },
 ];
 

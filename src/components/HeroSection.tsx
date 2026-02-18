@@ -44,7 +44,7 @@ const HeroSection = () => {
             className="inline-flex items-center justify-center gap-2 bg-accent text-accent-foreground px-8 py-4 rounded-xl text-base font-bold hover:brightness-110 transition-all gold-glow"
           >
             <CalendarCheck size={20} />
-            Book a Demo Class
+            Enquire
           </a>
           <a
             href="tel:7671978080"
