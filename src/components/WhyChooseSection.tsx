@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Award, Smile, UserCheck, ShieldCheck, Clock, Languages } from "lucide-react";
 
 const features = [
-  { icon: Award, title: "5+ Years of Professional Experience" },
+  { icon: Award, title: "Own car driving trainer" },
   { icon: Smile, title: "Friendly, Calm & Patient Teaching Style" },
   { icon: UserCheck, title: "One-on-One Personal Training" },
   { icon: ShieldCheck, title: "Focus on Road Safety & Confidence" },
